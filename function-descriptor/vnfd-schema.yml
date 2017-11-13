@@ -62,6 +62,8 @@ definitions:
       - "internal"
       - "external"
       - "management"
+      - "input"
+      - "output"
   interfaces:
     enum:
       - "ethernet"
